@@ -14,9 +14,3 @@ A simple app that detects Bahraini banknotes from a camera photo using a YOLO mo
 - `app.py` - the Streamlit app
 - `best.pt` - the trained YOLO model
 - `requirements.txt` - Python packages
-
-## Run locally
-```
-pip install -r requirements.txt
-streamlit run app.py
-```
